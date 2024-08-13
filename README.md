@@ -1,4 +1,4 @@
-*# Bing-Script*
+# *Bing-Script*
 
 ***<center><p>  Bot Features !!!</p></center>***
 -
