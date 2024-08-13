@@ -5,9 +5,9 @@
 
 --Bypass cooldown limits.
 -
---Full Functionality through web browsers and Python environments.
+--Full Functionality through web browsers and python environments.
 -
---Use mobile browsers and Android-compatible automation tools like termux and selenium to run scripts and manage accounts.
+--Use mobile browsers and android-compatible automation tools like termux and selenium to run scripts and manage accounts.
 -
 --Customize user-agents for various devices.
 -
