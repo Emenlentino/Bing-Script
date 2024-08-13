@@ -1,6 +1,6 @@
 # Bing-Script
 --
-<center>###  Bot Features !!!</center>
+<center><p>###  Bot Features !!!</p></center>
 --
 
 --Bypass cooldown limits.
