@@ -1,4 +1,6 @@
 # Bing-Script
+-- Bing searches (Desktop and Mobile)
+---
 
 ## Bot Features
 
